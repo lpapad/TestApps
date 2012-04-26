@@ -16,6 +16,7 @@
 
 @implementation TestAppsMasterViewController
 
+
 @synthesize detailViewController = _detailViewController;
 @synthesize fetchedResultsController = __fetchedResultsController;
 @synthesize managedObjectContext = __managedObjectContext;

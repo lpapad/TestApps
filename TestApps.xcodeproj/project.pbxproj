@@ -27,18 +27,18 @@
 		6DFB45AB1549B4C90001F5F1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6DFB45AD1549B4C90001F5F1 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		6DFB45AF1549B4C90001F5F1 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
-		6DFB45B31549B4C90001F5F1 /* TestApps-Info.plist */ = {isa = PBXFileReference; path = "TestApps-Info.plist"; sourceTree = "<group>"; };
+		6DFB45B31549B4C90001F5F1 /* TestApps-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TestApps-Info.plist"; sourceTree = "<group>"; };
 		6DFB45B51549B4C90001F5F1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6DFB45B71549B4C90001F5F1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		6DFB45B91549B4C90001F5F1 /* TestApps-Prefix.pch */ = {isa = PBXFileReference; path = "TestApps-Prefix.pch"; sourceTree = "<group>"; };
-		6DFB45BA1549B4C90001F5F1 /* TestAppsAppDelegate.h */ = {isa = PBXFileReference; path = TestAppsAppDelegate.h; sourceTree = "<group>"; };
+		6DFB45B91549B4C90001F5F1 /* TestApps-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TestApps-Prefix.pch"; sourceTree = "<group>"; };
+		6DFB45BA1549B4C90001F5F1 /* TestAppsAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestAppsAppDelegate.h; sourceTree = "<group>"; };
 		6DFB45BB1549B4C90001F5F1 /* TestAppsAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestAppsAppDelegate.m; sourceTree = "<group>"; };
 		6DFB45BE1549B4C90001F5F1 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		6DFB45C11549B4C90001F5F1 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
 		6DFB45C41549B4C90001F5F1 /* TestApps.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = TestApps.xcdatamodel; sourceTree = "<group>"; };
-		6DFB45C61549B4C90001F5F1 /* TestAppsMasterViewController.h */ = {isa = PBXFileReference; path = TestAppsMasterViewController.h; sourceTree = "<group>"; };
+		6DFB45C61549B4C90001F5F1 /* TestAppsMasterViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestAppsMasterViewController.h; sourceTree = "<group>"; };
 		6DFB45C71549B4C90001F5F1 /* TestAppsMasterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestAppsMasterViewController.m; sourceTree = "<group>"; };
-		6DFB45C91549B4C90001F5F1 /* TestAppsDetailViewController.h */ = {isa = PBXFileReference; path = TestAppsDetailViewController.h; sourceTree = "<group>"; };
+		6DFB45C91549B4C90001F5F1 /* TestAppsDetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestAppsDetailViewController.h; sourceTree = "<group>"; };
 		6DFB45CA1549B4C90001F5F1 /* TestAppsDetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestAppsDetailViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 

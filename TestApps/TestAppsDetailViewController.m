@@ -13,6 +13,8 @@
 - (void)configureView;
 @end
 
+
+
 @implementation TestAppsDetailViewController
 
 @synthesize detailItem = _detailItem;

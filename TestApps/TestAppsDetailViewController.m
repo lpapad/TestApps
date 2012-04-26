@@ -51,6 +51,8 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     [self configureView];
+    
+    NSLog(@"TESTING...");
 }
 
 - (void)viewDidUnload
